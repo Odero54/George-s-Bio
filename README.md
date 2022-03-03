@@ -20,3 +20,5 @@ e. SQL; PostgreSQL and MySQL
 
 Frameworks:
 a. Pandas, Matplotlib, Numpy, Seaborn, Tensorflow, exetra
+
+Watch tutorial on the youtube.
