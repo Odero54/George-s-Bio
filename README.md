@@ -1,3 +1,4 @@
+![IMG_4210](https://user-images.githubusercontent.com/79825284/156517299-1f315da4-b3f2-43d5-bf87-21f297da191a.jpg)
 # George-s-Bio
 This repo is all about me
 
