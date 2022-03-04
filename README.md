@@ -15,10 +15,11 @@ e. Software development
 Languages I use:
 a. Python
 b. C++/Visual Studio code
+c. JavaScript 
 d. Matlab
 e. SQL; PostgreSQL and MySQL
 
 Frameworks:
 a. Pandas, Matplotlib, Numpy, Seaborn, Tensorflow, exetra
 
-Watch tutorial on the youtube.
+
